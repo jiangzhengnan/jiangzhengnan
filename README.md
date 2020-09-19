@@ -16,18 +16,18 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/jiangzhengnan/jiangzhengnan?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/jiangzhengnan?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/repos/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/jiangzhengnan?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/gists/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/jiangzhengnan?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/jiangzhengnan?style=flat-square&color=black&logo=github">
   </a>
 </p>
