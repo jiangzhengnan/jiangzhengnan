@@ -6,13 +6,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://blog.csdn.net/qq_22770457" target="_blank">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
- </p>
- 
-  <p align="center">
-  <strong>ฅ’ω’ฅ</strong>
-  <br> 
-   
