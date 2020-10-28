@@ -13,18 +13,6 @@
  </p>
  
   <p align="center">
-  <strong>Check out my work below!</strong>
+  <strong>ฅ’ω’ฅ</strong>
   <br> 
-  <a href="https://github.com/jiangzhengnan">
-    <img src="https://badges.pufler.dev/visits/jiangzhengnan/jiangzhengnan?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/jiangzhengnan">
-    <img src="https://badges.pufler.dev/years/jiangzhengnan?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/jiangzhengnan">
-    <img src="https://badges.pufler.dev/repos/jiangzhengnan?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/jiangzhengnan">
-    <img src="https://badges.pufler.dev/commits/monthly/jiangzhengnan?style=flat-square&color=black&logo=github">
-  </a>
-  </p>
+   
