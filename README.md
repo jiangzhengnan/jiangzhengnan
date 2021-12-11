@@ -3,5 +3,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangzhengnan)](https://github.com/anuraghazra/github-readme-stats)
 
-Base GuangZhou,China. Android,IOS,Flutter.
+Base GuangZhou. Android IOS Flutter.
  
