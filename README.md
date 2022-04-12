@@ -1,4 +1,4 @@
-### <a href="https://github.com/jiangzhengnan" target="_blank">Hi here</a> 👋 
+
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
     <td>
@@ -11,3 +11,12 @@
     </td>
     </tr> 
 
+<p align="center">
+
+  <a href="https://github.com/jiangzhengnan">
+    <img src="https://komarev.com/ghpvc/?username=Omooo&color=brightgreen" />
+  </a>
+  <a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </a>  
+</p>
