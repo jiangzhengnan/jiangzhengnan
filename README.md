@@ -14,7 +14,7 @@
 <p align="center">
 
   <a href="https://github.com/jiangzhengnan">
-    <img src="https://komarev.com/ghpvc/?username=Omooo&color=brightgreen" />
+    <img src="https://komarev.com/ghpvc/?username=jiangzhengnan&color=brightgreen" />
   </a>
   <a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
