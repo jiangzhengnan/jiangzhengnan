@@ -14,9 +14,13 @@
 
 <p align="center">
   <a href="https://github.com/jiangzhengnan">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jiangzhengnan.jiangzhengnan" />
+  </a>
+  <a href="https://github.com/jiangzhengnan">
     <img src="https://komarev.com/ghpvc/?username=jiangzhengnan&color=brightgreen" />
   </a>
   <a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </a>  
 </p>
+ 
