@@ -10,9 +10,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangzhengnan&layout=compact)
     </td>
     </tr> 
+  </table>
 
 <p align="center">
-
   <a href="https://github.com/jiangzhengnan">
     <img src="https://komarev.com/ghpvc/?username=jiangzhengnan&color=brightgreen" />
   </a>
